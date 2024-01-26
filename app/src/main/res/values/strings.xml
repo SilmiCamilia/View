@@ -21,9 +21,14 @@
     Fast charging: up to 7 hours of use from only 15 minutes
     of charging
         </string>
-    <string name="spesifikasi" />
-    <string name="display" />
-    <string name="dijual_breh" />
-    <string name="narenda_wicaksono" />
-    <string name="beli" />
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Narenda Wicaksono</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">6 photos</string>
 </resources>
